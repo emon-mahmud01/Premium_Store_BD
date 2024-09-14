@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Netflix",
+    "price":"$12.99",
+    "rating": "4.5/5",
+    "image": "https://images3.alphacoders.com/115/1152293.png",
+    "content": "Movies, TV shows, Originals",
+    "watch_resolution": "4K",
+    "description": "Netflix is one of the largest streaming platforms globally, offering a vast library of movies, TV shows, and Netflix Originals. With a user-friendly interface and compatibility with multiple devices, it provides high-quality streaming in 4K resolution."
+  },
+  {
+    "id": 2,
+    "name": "Amazon Prime Video",
+    "price":"$8.99",
+    "rating": "4/5",
+    "image": "https://ew.com/thmb/ZaU11DoTPUYtXjdrzEtEDcM9apc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-prime-video-e7828eac13f74731bfeeb005f809c82e.jpg",
+    "content": "Movies, TV shows, Originals",
+    "watch_resolution": "4K",
+    "description": "Amazon Prime Video offers a diverse collection of movies, TV shows, and Prime Originals. Subscribers also benefit from access to Amazon Prime's fast delivery service and other exclusive perks. With 4K streaming capability, it provides high-quality entertainment."
+  },
+  {
+    "id": 3,
+    "name": "Disney+",
+    "price":"$7.99",
+    "rating": "4.7/5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHp3dX79Lh4h-XwAnC2XgPnxW7IGq7Sbwp7jOpBFJ0Tg&s",
+    "content": "Disney, Pixar, Marvel, Star Wars content",
+    "watch_resolution": "4K",
+    "description": "Disney+ is the ultimate destination for Disney, Pixar, Marvel, and Star Wars fans, offering a vast collection of family-friendly content. With 4K streaming capabilities and exclusive access to beloved franchises, it delivers a magical entertainment experience."
+  },
+  {
+    "id": 4,
+    "name": "Hulu",
+    "price":"$5.99",
+    "rating": "4.2/5",
+    "image": "https://yt3.googleusercontent.com/RtSHMfypXFjjzRCp8lqbBLIpYV5fNHwEuZ4d2IIFoGo_YIljaYmZECFtk6A8msdoV8FHgF8J=s900-c-k-c0x00ffffff-no-rj",
+    "content": "TV shows, Originals, Movies",
+    "watch_resolution": "1080p",
+    "description": "Hulu provides a wide selection of current TV shows, Originals, and movies at an affordable price. With options to watch in 1080p resolution, it caters to users seeking diverse entertainment choices without breaking the bank."
+  },
+  {
+    "id": 5,
+    "name": "Chorki",
+    "price":"BDT 299",
+    "rating": "4.2/5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chorki_Logo.png",
+    "content": "Bangladeshi TV shows, Movies",
+    "watch_resolution": "1080p",
+    "description": "Chorki is a Bangladeshi streaming service offering a wide range of local TV shows and movies. With an affordable subscription model and high-quality streaming in 1080p resolution, it caters to the entertainment needs of Bangladeshi viewers."
+  },
+  {
+    "id": 6,
+    "name": "Aha",
+    "price":"BDT 250",
+    "rating": "4.3/5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Aha_OTT_Logo.svg",
+    "content": "Telugu movies, Originals",
+    "watch_resolution": "1080p",
+    "description": "Aha is a streaming platform dedicated to Telugu-language content, offering a diverse collection of Telugu movies and Originals. With affordable pricing and high-quality streaming in 1080p resolution, it caters to the entertainment preferences of Telugu-speaking audiences."
+  },
+  {
+    "id": 7,
+    "name": "Hoichoi",
+    "price":"BDT 499",
+    "rating": "4.4/5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoichoi-Logos-3.png/1200px-Hoichoi-Logos-3.png",
+    "content": "Bengali movies, Originals",
+    "watch_resolution": "1080p",
+    "description": "Hoichoi is a Bengali streaming platform offering a wide range of Bengali movies and Originals. With an extensive library of content and high-quality streaming in 1080p resolution, it provides a premium entertainment experience for Bengali-speaking viewers."
+  },
+  {
+    "id": 8,
+    "name": "HBO Max",
+    "price":"BDT 230",
+    "rating": "4.6/5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hiTReLRKwXy6jQ4yLRIJ-yBjQWHa_ZtQTR7P0cg9cg&s",
+    "content": "Movies, TV shows, Originals",
+    "watch_resolution": "4K",
+    "description": "HBO Max offers a vast selection of movies, TV shows, and HBO Originals, including popular series like Game of Thrones and Westworld. With 4K streaming capability and exclusive content, it provides a premium entertainment experience for subscribers."
+  },
+  {
+    "id": 8,
+    "name": "HBO Max",
+    "price":"BDT 499",
+    "rating": "4.6/5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hiTReLRKwXy6jQ4yLRIJ-yBjQWHa_ZtQTR7P0cg9cg&s",
+    "content": "Movies, TV shows, Originals",
+    "watch_resolution": "4K",
+    "description": "HBO Max offers a vast selection of movies, TV shows, and HBO Originals, including popular series like Game of Thrones and Westworld. With 4K streaming capability and exclusive content, it provides a premium entertainment experience for subscribers."
+  }
+]
